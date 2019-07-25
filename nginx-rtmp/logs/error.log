@@ -1,0 +1,105 @@
+2019/07/23 12:07:26 [emerg] 14100#1828: CreateDirectory() "C:/nginx-rtmp/var/www/live" failed (3: The system cannot find the path specified)
+2019/07/23 12:08:38 [notice] 5752#9536: sockinit() attempting to access sockapi
+2019/07/23 12:08:38 [notice] 5752#9536: Access to sockapi succeded!
+2019/07/23 12:08:38 [notice] 5752#9536: using sockapi from "4;124;"
+2019/07/23 12:11:56 [notice] 9956#1840: sockinit() attempting to access sockapi
+2019/07/23 12:11:56 [notice] 9956#1840: Access to sockapi succeded!
+2019/07/23 12:11:56 [notice] 9956#1840: using sockapi from "4;8;"
+2019/07/23 12:11:59 [notice] 12692#13208: sockinit() attempting to access sockapi
+2019/07/23 12:11:59 [notice] 12692#13208: Access to sockapi succeded!
+2019/07/23 12:11:59 [notice] 12692#13208: using sockapi from "4;8;"
+2019/07/23 12:12:10 [notice] 12184#4584: sockinit() attempting to access sockapi
+2019/07/23 12:12:10 [notice] 12184#4584: Access to sockapi succeded!
+2019/07/23 12:12:10 [notice] 12184#4584: using sockapi from "4;8;"
+2019/07/23 12:12:13 [notice] 13576#6140: sockinit() attempting to access sockapi
+2019/07/23 12:12:13 [notice] 13576#6140: Access to sockapi succeded!
+2019/07/23 12:12:13 [notice] 13576#6140: using sockapi from "4;8;"
+2019/07/23 12:12:16 [notice] 1580#13628: sockinit() attempting to access sockapi
+2019/07/23 12:12:16 [notice] 1580#13628: Access to sockapi succeded!
+2019/07/23 12:12:16 [notice] 1580#13628: using sockapi from "4;8;"
+2019/07/23 12:14:07 [notice] 11796#7540: signal process started (stop)
+2019/07/23 12:14:07 [error] 11796#7540: OpenEvent("Global\ngx_stop_8116") failed (2: The system cannot find the file specified)
+2019/07/23 12:14:50 [emerg] 9776#6648: CreateDirectory() "C:/nginx-rtmp/var/www/live" failed (3: The system cannot find the path specified)
+2019/07/23 12:15:21 [emerg] 2640#1828: CreateDirectory() "C:/nginx-rtmp/var/www/live" failed (3: The system cannot find the path specified)
+2019/07/23 12:15:28 [emerg] 8996#13324: unknown directive "rtmp" in C:\nginx-rtmp/conf/nginx.conf:33
+2019/07/23 12:15:37 [emerg] 2668#6116: unknown directive "rtmp" in C:\nginx-rtmp/conf/nginx.conf:33
+2019/07/23 12:16:02 [emerg] 13264#3928: CreateDirectory() "C:/nginx-rtmp/var/www/live" failed (3: The system cannot find the path specified)
+2019/07/23 12:16:14 [notice] 11688#4032: sockinit() attempting to access sockapi
+2019/07/23 12:16:14 [notice] 11688#4032: Access to sockapi succeded!
+2019/07/23 12:16:14 [notice] 11688#4032: using sockapi from "4;84;"
+2019/07/23 12:19:45 [error] 11688#3372: WSARecv() failed (10054: An existing connection was forcibly closed by the remote host)
+2019/07/23 13:01:32 [notice] 11908#13276: signal process started (stop)
+2019/07/24 20:29:14 [notice] 5304#5376: sockinit() attempting to access sockapi
+2019/07/24 20:29:14 [notice] 5304#5376: Access to sockapi succeded!
+2019/07/24 20:29:14 [notice] 5304#5376: using sockapi from "4;144;"
+2019/07/24 20:31:00 [error] 5304#3964: *10 hls: GetFileAttributesEx() failed on 'C:/nginx-rtmp/var/www/live//video/dem' (3: The system cannot find the path specified), client: 127.0.0.1, server: 0.0.0.0:1935
+2019/07/24 20:31:04 [error] 5304#3964: *10 hls: GetFileAttributesEx() failed on 'C:/nginx-rtmp/var/www/live//video/dem' (3: The system cannot find the path specified), client: 127.0.0.1, server: 0.0.0.0:1935
+2019/07/24 20:31:08 [error] 5304#3964: *10 hls: GetFileAttributesEx() failed on 'C:/nginx-rtmp/var/www/live//video/dem' (3: The system cannot find the path specified), client: 127.0.0.1, server: 0.0.0.0:1935
+2019/07/24 20:31:12 [error] 5304#3964: *10 hls: GetFileAttributesEx() failed on 'C:/nginx-rtmp/var/www/live//video/dem' (3: The system cannot find the path specified), client: 127.0.0.1, server: 0.0.0.0:1935
+2019/07/24 20:31:16 [error] 5304#3964: *10 hls: GetFileAttributesEx() failed on 'C:/nginx-rtmp/var/www/live//video/dem' (3: The system cannot find the path specified), client: 127.0.0.1, server: 0.0.0.0:1935
+2019/07/24 20:31:21 [error] 5304#3964: *10 hls: GetFileAttributesEx() failed on 'C:/nginx-rtmp/var/www/live//video/dem' (3: The system cannot find the path specified), client: 127.0.0.1, server: 0.0.0.0:1935
+2019/07/24 20:31:25 [error] 5304#3964: *10 hls: GetFileAttributesEx() failed on 'C:/nginx-rtmp/var/www/live//video/dem' (3: The system cannot find the path specified), client: 127.0.0.1, server: 0.0.0.0:1935
+2019/07/24 20:31:29 [error] 5304#3964: *10 hls: GetFileAttributesEx() failed on 'C:/nginx-rtmp/var/www/live//video/dem' (3: The system cannot find the path specified), client: 127.0.0.1, server: 0.0.0.0:1935
+2019/07/24 20:31:33 [error] 5304#3964: *11 CreateFile() "C:/nginx-rtmp/var/www/live/dem/index.m3u8" failed (3: The system cannot find the path specified), client: 127.0.0.1, server: , request: "GET /live/dem/index.m3u8 HTTP/1.1", host: "localhost"
+2019/07/24 20:31:33 [error] 5304#3964: *11 CreateFile() "C:/nginx-rtmp/var/www/favicon.ico" failed (2: The system cannot find the file specified), client: 127.0.0.1, server: , request: "GET /favicon.ico HTTP/1.1", host: "localhost", referrer: "http://localhost/live/dem/index.m3u8"
+2019/07/24 20:31:33 [error] 5304#3964: *10 hls: GetFileAttributesEx() failed on 'C:/nginx-rtmp/var/www/live//video/dem' (3: The system cannot find the path specified), client: 127.0.0.1, server: 0.0.0.0:1935
+2019/07/24 20:31:37 [error] 5304#3964: *10 hls: GetFileAttributesEx() failed on 'C:/nginx-rtmp/var/www/live//video/dem' (3: The system cannot find the path specified), client: 127.0.0.1, server: 0.0.0.0:1935
+2019/07/24 20:31:41 [error] 5304#3964: *10 hls: GetFileAttributesEx() failed on 'C:/nginx-rtmp/var/www/live//video/dem' (3: The system cannot find the path specified), client: 127.0.0.1, server: 0.0.0.0:1935
+2019/07/24 20:31:45 [error] 5304#3964: *11 CreateFile() "C:/nginx-rtmp/var/www/live/notdem/index.m3u8" failed (3: The system cannot find the path specified), client: 127.0.0.1, server: , request: "GET /live/notdem/index.m3u8 HTTP/1.1", host: "localhost"
+2019/07/24 20:31:46 [error] 5304#3964: *10 hls: GetFileAttributesEx() failed on 'C:/nginx-rtmp/var/www/live//video/dem' (3: The system cannot find the path specified), client: 127.0.0.1, server: 0.0.0.0:1935
+2019/07/24 20:31:50 [error] 5304#3964: *10 hls: GetFileAttributesEx() failed on 'C:/nginx-rtmp/var/www/live//video/dem' (3: The system cannot find the path specified), client: 127.0.0.1, server: 0.0.0.0:1935
+2019/07/24 20:31:54 [error] 5304#3964: *10 hls: GetFileAttributesEx() failed on 'C:/nginx-rtmp/var/www/live//video/dem' (3: The system cannot find the path specified), client: 127.0.0.1, server: 0.0.0.0:1935
+2019/07/24 20:31:58 [error] 5304#3964: *10 hls: GetFileAttributesEx() failed on 'C:/nginx-rtmp/var/www/live//video/dem' (3: The system cannot find the path specified), client: 127.0.0.1, server: 0.0.0.0:1935
+2019/07/24 20:32:02 [error] 5304#3964: *10 hls: GetFileAttributesEx() failed on 'C:/nginx-rtmp/var/www/live//video/dem' (3: The system cannot find the path specified), client: 127.0.0.1, server: 0.0.0.0:1935
+2019/07/24 20:32:06 [error] 5304#3964: *10 hls: GetFileAttributesEx() failed on 'C:/nginx-rtmp/var/www/live//video/dem' (3: The system cannot find the path specified), client: 127.0.0.1, server: 0.0.0.0:1935
+2019/07/24 20:32:11 [error] 5304#3964: *10 hls: GetFileAttributesEx() failed on 'C:/nginx-rtmp/var/www/live//video/dem' (3: The system cannot find the path specified), client: 127.0.0.1, server: 0.0.0.0:1935
+2019/07/24 20:32:14 [error] 5304#3964: *11 CreateFile() "C:/nginx-rtmp/var/www/live/dem/index.m3u8" failed (3: The system cannot find the path specified), client: 127.0.0.1, server: , request: "GET /live/dem/index.m3u8 HTTP/1.1", host: "localhost"
+2019/07/24 20:32:15 [error] 5304#3964: *10 hls: GetFileAttributesEx() failed on 'C:/nginx-rtmp/var/www/live//video/dem' (3: The system cannot find the path specified), client: 127.0.0.1, server: 0.0.0.0:1935
+2019/07/24 20:32:19 [error] 5304#3964: *10 hls: GetFileAttributesEx() failed on 'C:/nginx-rtmp/var/www/live//video/dem' (3: The system cannot find the path specified), client: 127.0.0.1, server: 0.0.0.0:1935
+2019/07/24 20:32:23 [error] 5304#3964: *10 hls: GetFileAttributesEx() failed on 'C:/nginx-rtmp/var/www/live//video/dem' (3: The system cannot find the path specified), client: 127.0.0.1, server: 0.0.0.0:1935
+2019/07/24 20:32:27 [error] 5304#3964: *10 hls: GetFileAttributesEx() failed on 'C:/nginx-rtmp/var/www/live//video/dem' (3: The system cannot find the path specified), client: 127.0.0.1, server: 0.0.0.0:1935
+2019/07/24 20:32:31 [error] 5304#3964: *10 hls: GetFileAttributesEx() failed on 'C:/nginx-rtmp/var/www/live//video/dem' (3: The system cannot find the path specified), client: 127.0.0.1, server: 0.0.0.0:1935
+2019/07/24 20:32:36 [error] 5304#3964: *10 hls: GetFileAttributesEx() failed on 'C:/nginx-rtmp/var/www/live//video/dem' (3: The system cannot find the path specified), client: 127.0.0.1, server: 0.0.0.0:1935
+2019/07/24 20:32:40 [error] 5304#3964: *10 hls: GetFileAttributesEx() failed on 'C:/nginx-rtmp/var/www/live//video/dem' (3: The system cannot find the path specified), client: 127.0.0.1, server: 0.0.0.0:1935
+2019/07/24 20:32:44 [error] 5304#3964: *10 hls: GetFileAttributesEx() failed on 'C:/nginx-rtmp/var/www/live//video/dem' (3: The system cannot find the path specified), client: 127.0.0.1, server: 0.0.0.0:1935
+2019/07/24 20:32:48 [error] 5304#3964: *10 hls: GetFileAttributesEx() failed on 'C:/nginx-rtmp/var/www/live//video/dem' (3: The system cannot find the path specified), client: 127.0.0.1, server: 0.0.0.0:1935
+2019/07/24 20:32:52 [error] 5304#3964: *10 hls: GetFileAttributesEx() failed on 'C:/nginx-rtmp/var/www/live//video/dem' (3: The system cannot find the path specified), client: 127.0.0.1, server: 0.0.0.0:1935
+2019/07/24 20:32:56 [error] 5304#3964: *10 hls: GetFileAttributesEx() failed on 'C:/nginx-rtmp/var/www/live//video/dem' (3: The system cannot find the path specified), client: 127.0.0.1, server: 0.0.0.0:1935
+2019/07/24 20:33:01 [error] 5304#3964: *10 hls: GetFileAttributesEx() failed on 'C:/nginx-rtmp/var/www/live//video/dem' (3: The system cannot find the path specified), client: 127.0.0.1, server: 0.0.0.0:1935
+2019/07/24 20:33:05 [error] 5304#3964: *10 hls: GetFileAttributesEx() failed on 'C:/nginx-rtmp/var/www/live//video/dem' (3: The system cannot find the path specified), client: 127.0.0.1, server: 0.0.0.0:1935
+2019/07/24 20:33:09 [error] 5304#3964: *10 hls: GetFileAttributesEx() failed on 'C:/nginx-rtmp/var/www/live//video/dem' (3: The system cannot find the path specified), client: 127.0.0.1, server: 0.0.0.0:1935
+2019/07/24 20:33:13 [error] 5304#3964: *10 hls: GetFileAttributesEx() failed on 'C:/nginx-rtmp/var/www/live//video/dem' (3: The system cannot find the path specified), client: 127.0.0.1, server: 0.0.0.0:1935
+2019/07/24 20:33:17 [error] 5304#3964: *10 hls: GetFileAttributesEx() failed on 'C:/nginx-rtmp/var/www/live//video/dem' (3: The system cannot find the path specified), client: 127.0.0.1, server: 0.0.0.0:1935
+2019/07/24 20:33:21 [error] 5304#3964: *10 hls: GetFileAttributesEx() failed on 'C:/nginx-rtmp/var/www/live//video/dem' (3: The system cannot find the path specified), client: 127.0.0.1, server: 0.0.0.0:1935
+2019/07/24 20:33:26 [error] 5304#3964: *10 hls: GetFileAttributesEx() failed on 'C:/nginx-rtmp/var/www/live//video/dem' (3: The system cannot find the path specified), client: 127.0.0.1, server: 0.0.0.0:1935
+2019/07/24 20:33:30 [error] 5304#3964: *10 hls: GetFileAttributesEx() failed on 'C:/nginx-rtmp/var/www/live//video/dem' (3: The system cannot find the path specified), client: 127.0.0.1, server: 0.0.0.0:1935
+2019/07/24 20:33:34 [error] 5304#3964: *10 hls: GetFileAttributesEx() failed on 'C:/nginx-rtmp/var/www/live//video/dem' (3: The system cannot find the path specified), client: 127.0.0.1, server: 0.0.0.0:1935
+2019/07/24 20:33:38 [error] 5304#3964: *10 hls: GetFileAttributesEx() failed on 'C:/nginx-rtmp/var/www/live//video/dem' (3: The system cannot find the path specified), client: 127.0.0.1, server: 0.0.0.0:1935
+2019/07/24 20:33:42 [error] 5304#3964: *10 hls: GetFileAttributesEx() failed on 'C:/nginx-rtmp/var/www/live//video/dem' (3: The system cannot find the path specified), client: 127.0.0.1, server: 0.0.0.0:1935
+2019/07/24 20:33:46 [error] 5304#3964: *10 hls: GetFileAttributesEx() failed on 'C:/nginx-rtmp/var/www/live//video/dem' (3: The system cannot find the path specified), client: 127.0.0.1, server: 0.0.0.0:1935
+2019/07/24 20:33:51 [error] 5304#3964: *10 hls: GetFileAttributesEx() failed on 'C:/nginx-rtmp/var/www/live//video/dem' (3: The system cannot find the path specified), client: 127.0.0.1, server: 0.0.0.0:1935
+2019/07/24 20:33:53 [error] 5304#3964: *13 CreateFile() "C:/nginx-rtmp/var/www/video/dem/index.m3u8" failed (3: The system cannot find the path specified), client: 127.0.0.1, server: , request: "GET /video/dem/index.m3u8 HTTP/1.1", host: "localhost"
+2019/07/24 20:33:55 [error] 5304#3964: *10 hls: GetFileAttributesEx() failed on 'C:/nginx-rtmp/var/www/live//video/dem' (3: The system cannot find the path specified), client: 127.0.0.1, server: 0.0.0.0:1935
+2019/07/24 20:33:57 [error] 5304#3964: *13 CreateFile() "C:/nginx-rtmp/var/www/video/index.m3u8" failed (3: The system cannot find the path specified), client: 127.0.0.1, server: , request: "GET /video/index.m3u8 HTTP/1.1", host: "localhost"
+2019/07/24 20:33:59 [error] 5304#3964: *10 hls: GetFileAttributesEx() failed on 'C:/nginx-rtmp/var/www/live//video/dem' (3: The system cannot find the path specified), client: 127.0.0.1, server: 0.0.0.0:1935
+2019/07/24 20:33:59 [error] 5304#3964: *13 CreateFile() "C:/nginx-rtmp/var/www/video/index.m3u8" failed (3: The system cannot find the path specified), client: 127.0.0.1, server: , request: "GET /video/index.m3u8 HTTP/1.1", host: "localhost"
+2019/07/24 20:34:01 [error] 5304#3964: *13 CreateFile() "C:/nginx-rtmp/var/www/video/index.m3u8" failed (3: The system cannot find the path specified), client: 127.0.0.1, server: , request: "GET /video/index.m3u8 HTTP/1.1", host: "localhost"
+2019/07/24 20:34:03 [error] 5304#3964: *10 hls: GetFileAttributesEx() failed on 'C:/nginx-rtmp/var/www/live//video/dem' (3: The system cannot find the path specified), client: 127.0.0.1, server: 0.0.0.0:1935
+2019/07/24 20:34:07 [error] 5304#3964: *10 hls: GetFileAttributesEx() failed on 'C:/nginx-rtmp/var/www/live//video/dem' (3: The system cannot find the path specified), client: 127.0.0.1, server: 0.0.0.0:1935
+2019/07/24 20:34:12 [error] 5304#3964: *10 hls: GetFileAttributesEx() failed on 'C:/nginx-rtmp/var/www/live//video/dem' (3: The system cannot find the path specified), client: 127.0.0.1, server: 0.0.0.0:1935
+2019/07/24 20:34:16 [error] 5304#3964: *10 hls: GetFileAttributesEx() failed on 'C:/nginx-rtmp/var/www/live//video/dem' (3: The system cannot find the path specified), client: 127.0.0.1, server: 0.0.0.0:1935
+2019/07/24 20:34:20 [error] 5304#3964: *10 hls: GetFileAttributesEx() failed on 'C:/nginx-rtmp/var/www/live//video/dem' (3: The system cannot find the path specified), client: 127.0.0.1, server: 0.0.0.0:1935
+2019/07/24 20:34:24 [error] 5304#3964: *10 hls: GetFileAttributesEx() failed on 'C:/nginx-rtmp/var/www/live//video/dem' (3: The system cannot find the path specified), client: 127.0.0.1, server: 0.0.0.0:1935
+2019/07/24 20:34:28 [error] 5304#3964: *10 hls: GetFileAttributesEx() failed on 'C:/nginx-rtmp/var/www/live//video/dem' (3: The system cannot find the path specified), client: 127.0.0.1, server: 0.0.0.0:1935
+2019/07/24 20:34:32 [error] 5304#3964: *10 hls: GetFileAttributesEx() failed on 'C:/nginx-rtmp/var/www/live//video/dem' (3: The system cannot find the path specified), client: 127.0.0.1, server: 0.0.0.0:1935
+2019/07/24 20:34:36 [error] 5304#3964: *10 hls: GetFileAttributesEx() failed on 'C:/nginx-rtmp/var/www/live//video/dem' (3: The system cannot find the path specified), client: 127.0.0.1, server: 0.0.0.0:1935
+2019/07/24 20:34:46 [error] 5304#3964: *13 CreateFile() "C:/nginx-rtmp/var/www/dem/index.m3u8" failed (3: The system cannot find the path specified), client: 127.0.0.1, server: , request: "GET /dem/index.m3u8 HTTP/1.1", host: "localhost"
+2019/07/24 20:34:48 [error] 5304#3964: *13 CreateFile() "C:/nginx-rtmp/var/www/dem/index.m3u8" failed (3: The system cannot find the path specified), client: 127.0.0.1, server: , request: "GET /dem/index.m3u8 HTTP/1.1", host: "localhost"
+2019/07/24 20:34:49 [error] 5304#3964: *13 CreateFile() "C:/nginx-rtmp/var/www/dem/index.m3u8" failed (3: The system cannot find the path specified), client: 127.0.0.1, server: , request: "GET /dem/index.m3u8 HTTP/1.1", host: "localhost"
+2019/07/24 20:34:50 [error] 5304#3964: *13 CreateFile() "C:/nginx-rtmp/var/www/dem/index.m3u8" failed (3: The system cannot find the path specified), client: 127.0.0.1, server: , request: "GET /dem/index.m3u8 HTTP/1.1", host: "localhost"
+2019/07/24 20:35:12 [error] 5304#3964: *13 CreateFile() "C:/nginx-rtmp/var/www/live/dem/index.m3u8" failed (3: The system cannot find the path specified), client: 127.0.0.1, server: , request: "GET /live/dem/index.m3u8 HTTP/1.1", host: "localhost"
+2019/07/24 20:35:14 [error] 5304#3964: *13 CreateFile() "C:/nginx-rtmp/var/www/live/dem/index.m3u8" failed (3: The system cannot find the path specified), client: 127.0.0.1, server: , request: "GET /live/dem/index.m3u8 HTTP/1.1", host: "localhost"
+2019/07/24 20:43:40 [error] 5304#3964: *29 CreateFile() "C:/nginx-rtmp/var/www/live/dem/index.m3u8" failed (3: The system cannot find the path specified), client: 127.0.0.1, server: , request: "GET /live/dem/index.m3u8 HTTP/1.1", host: "localhost"
+2019/07/24 20:43:41 [error] 5304#3964: *29 CreateFile() "C:/nginx-rtmp/var/www/live/dem/index.m3u8" failed (3: The system cannot find the path specified), client: 127.0.0.1, server: , request: "GET /live/dem/index.m3u8 HTTP/1.1", host: "localhost"
+2019/07/24 20:43:41 [error] 5304#3964: *29 CreateFile() "C:/nginx-rtmp/var/www/live/dem/index.m3u8" failed (3: The system cannot find the path specified), client: 127.0.0.1, server: , request: "GET /live/dem/index.m3u8 HTTP/1.1", host: "localhost"
+2019/07/24 20:48:44 [notice] 7888#1208: signal process started (stop)
